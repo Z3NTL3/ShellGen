@@ -4,6 +4,13 @@ A Advanced Shell Generator, at the moment it includes 5 advanced shells. By time
 Password access: root
 Coded by Z3NTL3 Root, special for Root Team.
 
+# Usage
+pip3 install -r requirements.txt
+python3 shellgen.py
+
+[>] Enter software passsword=root
+[>] Choose between option 1-5 shells
+
 # Python Coded
 Modules:
 #!/usr/bin/env python3
