@@ -1,0 +1,6 @@
+pyperclip
+logging
+Discord-Logger
+sys
+os
+requests
